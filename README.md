@@ -35,6 +35,4 @@ Soy **Franco Cabrera**, un desarrollador de software apasionado por las nuevas t
 
 ### 📫 Contact
 
-- **Email:** cabrera.franco@outlook.com
 - **LinkedIn:** [linkedin.com/in/francocabrera](https://www.linkedin.com/in/francocabrera/)
-- **GitHub:** [github.com/FrancoCabrera25](https://github.com/FrancoCabrera25/)
