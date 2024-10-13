@@ -11,18 +11,12 @@ Soy **Franco Cabrera**, un desarrollador de software apasionado por las nuevas t
 - **Bases de Datos:** MongoDB, SQL Server, MySQL
 - **Metodologías:** Scrum, Microfrontend
 
----
 
-### 🔭 Proyectos destacados
-
-- **[Proyecto de Salud](#)**: Aplicación web con Java y Angular para gestionar datos de pacientes.
-- **[Backoffice de Naranjax](#)**: Mantenimiento y mejoras de sistemas productivos con Angular.
-
----
 
 ### 📊 Take a look at my stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancoCabrera25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCabrera25&layout=compact&theme=radical)
 
 ---
 
