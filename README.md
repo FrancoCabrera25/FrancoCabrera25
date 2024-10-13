@@ -22,13 +22,14 @@ Soy **Franco Cabrera**, un desarrollador de software apasionado por las nuevas t
 
 ### 💻 Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-v4.5-blue?logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-v12-red?logo=angular)
-![Node.js](https://img.shields.io/badge/Node.js-v16-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-v5.0-green?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql)
-![Scrum](https://img.shields.io/badge/Scrum-Agile-red?logo=scrum)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-v4.5-blue?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-v13-red?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-v17-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-v16-green?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-v5.0-green?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white)
 
 ---
 
